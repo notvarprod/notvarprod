@@ -10,14 +10,10 @@
 ## 🛠️・Инструменты и технологии 🔧
 
 <div align="center">
-  
-https://img.shields.io/badge/Python-FF6EC7?style=for-the-badge&logo=python&logoColor=white&labelColor=FF6EC7&color=FF6EC7
-https://img.shields.io/badge/Pandas-9B59B6?style=for-the-badge&logo=pandas&logoColor=white&labelColor=9B59B6
-https://img.shields.io/badge/SciPy-3498DB?style=for-the-badge&logo=scipy&logoColor=white&labelColor=3498DB
-https://img.shields.io/badge/NumPy-2ECC71?style=for-the-badge&logo=numpy&logoColor=white&labelColor=2ECC71
-https://img.shields.io/badge/SQL-E74C3C?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=E74C3C
-https://img.shields.io/badge/PostgreSQL-F39C12?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=F39C12
-https://img.shields.io/badge/Jupyter-1ABC9C?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1ABC9C
-https://img.shields.io/badge/Excel-27AE60?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=27AE60
+
+![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=black&labelColor=FFB6C1)
+![Pandas](https://img.shields.io/badge/Pandas-B19CD9?style=for-the-badge&logo=pandas&logoColor=white&labelColor=B19CD9)
+![NumPy](https://img.shields.io/badge/NumPy-87CEEB?style=for-the-badge&logo=numpy&logoColor=black&labelColor=87CEEB)
+![Jupyter](https://img.shields.io/badge/Jupyter-98FB98?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=98FB98)
 
 </div>
