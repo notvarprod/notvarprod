@@ -11,9 +11,11 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=black&labelColor=FFB6C1)
-![Pandas](https://img.shields.io/badge/Pandas-B19CD9?style=for-the-badge&logo=pandas&logoColor=white&labelColor=B19CD9)
-![NumPy](https://img.shields.io/badge/NumPy-87CEEB?style=for-the-badge&logo=numpy&logoColor=black&labelColor=87CEEB)
-![Jupyter](https://img.shields.io/badge/Jupyter-98FB98?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=98FB98)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
