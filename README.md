@@ -10,14 +10,13 @@
 ## 🛠️・Инструменты и технологии 🔧
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+https://img.shields.io/badge/Python-FF6EC7?style=for-the-badge&logo=python&logoColor=white&labelColor=FF6EC7&color=FF6EC7
+https://img.shields.io/badge/Pandas-9B59B6?style=for-the-badge&logo=pandas&logoColor=white&labelColor=9B59B6
+https://img.shields.io/badge/SciPy-3498DB?style=for-the-badge&logo=scipy&logoColor=white&labelColor=3498DB
+https://img.shields.io/badge/NumPy-2ECC71?style=for-the-badge&logo=numpy&logoColor=white&labelColor=2ECC71
+https://img.shields.io/badge/SQL-E74C3C?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=E74C3C
+https://img.shields.io/badge/PostgreSQL-F39C12?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=F39C12
+https://img.shields.io/badge/Jupyter-1ABC9C?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1ABC9C
+https://img.shields.io/badge/Excel-27AE60?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=27AE60
 
 </div>
