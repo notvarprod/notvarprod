@@ -11,11 +11,11 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0b0038?style=for-the-badge&logo=python&logoColor=3776AB)
+![Pandas](https://img.shields.io/badge/Pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0b0038?style=for-the-badge&logo=numpy&logoColor=013243)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0038?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Jupyter](https://img.shields.io/badge/Jupyter-0b0038?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Excel](https://img.shields.io/badge/Excel-0b0038?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
 
 </div>
