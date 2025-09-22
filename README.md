@@ -10,6 +10,7 @@
 ## 🛠️・Инструменты и технологии 🔧
 
 <div align="center">
+  
 https://img.shields.io/badge/Python-FF6EC7?style=for-the-badge&logo=python&logoColor=white&labelColor=FF6EC7&color=FF6EC7
 https://img.shields.io/badge/Pandas-9B59B6?style=for-the-badge&logo=pandas&logoColor=white&labelColor=9B59B6
 https://img.shields.io/badge/SciPy-3498DB?style=for-the-badge&logo=scipy&logoColor=white&labelColor=3498DB
