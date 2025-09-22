@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0b0038?style=for-the-badge&logo=python&logoColor=3776AB)
+![Python]([https://img.shields.io/badge/Python-0b0038?style=for-the-badge&logo=python&logoColor=3776AB](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB))
 ![Pandas](https://img.shields.io/badge/Pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0b0038?style=for-the-badge&logo=numpy&logoColor=013243)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0038?style=for-the-badge&logo=postgresql&logoColor=336791)
